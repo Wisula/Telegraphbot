@@ -1,16 +1,16 @@
 {
     "name": "Telegraph Bot",
     "description": "A bot that can upload photos and video to telegraph.",
-    "logo": "https://telegra.ph/file/df88cd27fc2221d3393be.jpg",
+    "logo": "https://telegra.ph/file/59b751e67ce1b3c007e65.jpg",
     "keywords": [
         "Telegraph",
         "Uploader",
         "Telegram Bot",
-        "JE Bots"
+        "slbotzonebot"
     ],
-    "website": "https://infinityje.com",
-    "repository": "https://github.com/ImJanindu/JETelegraphBot",
-    "success_url": "https://t.me/Infinity_BOTs",
+    "website": "https://www.youtube.com/channel/UCvYfJcTr8RY72dIapzMqFQA?sub_confirmation=1",
+    "repository": "https://github.com/youtubeslgeekshow/Telegraphbot",
+    "success_url": "https://www.youtube.com/channel/UCvYfJcTr8RY72dIapzMqFQA?sub_confirmation=1",
     "env": {
         "TG_BOT_TOKEN": {
             "description": "Your Telegram Bot Token from @BotFather",

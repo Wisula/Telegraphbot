@@ -1,6 +1,7 @@
 # Telegraph Bot
 
 ## You can upload photos and videos to telegraph using this bot.
+<img align="senter" src="https://github.com/RazorKenway/RazorKenway/raw/main/Developer.gif" style="max-width:100%;">
 
 ### Deploy to Heroku 🔥🕺 
 

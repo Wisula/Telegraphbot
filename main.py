@@ -27,15 +27,17 @@ A project by @slbotzone 🇱🇰
 🔰@SL_bot_zone🔰@slbotzone
 </b>""",   
                             reply_markup=InlineKeyboardMarkup(
-                                [[
+                                [[[
                                         InlineKeyboardButton(
                                             "✍️Help👨‍💻", callback_data="help"),
                                         InlineKeyboardButton(
                                             "✅Channel✅", url="https://t.me/slbotzone")
                                     ],[
                                       InlineKeyboardButton(
-                                            "📦Source Code📦", url="https://github.com/supunmadurangasl/TelegraphBot")
-                                    ]]
+                                            "📦Source Code📦", url="https://www.youtube.com/channel/UCvYfJcTr8RY72dIapzMqFQA?sub_confirmation=1"),[
+                                      InlineKeyboardButton(
+                                            "👨‍💻 create your bot 👨‍💻", url="https://github.com/youtubeslgeekshow/Telegraphbot")
+                                    ]]]
                             ),        
             disable_web_page_preview=True,        
             parse_mode="html")
@@ -67,7 +69,7 @@ A project by @supunma 🇱🇰
                                             " 🌀About 🌀", callback_data="about"),
                                   ],[
                                         InlineKeyboardButton(
-                                            "📦 Source Code 📦", url="https://github.com/supunmadurangasl/TelegraphBot")
+                                            "📦 Source Code 📦", url="https://www.youtube.com/channel/UCvYfJcTr8RY72dIapzMqFQA?sub_confirmation=1")
                                     ]]
                             ),        
             disable_web_page_preview=True,        
@@ -92,7 +94,7 @@ async def about(client, message):
                                         InlineKeyboardButton(
                                             "🔙  Back 🔙  ", callback_data="help"),
                                         InlineKeyboardButton(
-                                            "📦Source Code 📦", url="https://github.com/supunmadurangasl/TelegraphBot")
+                                            "📦Source Code 📦", url="https://www.youtube.com/channel/UCvYfJcTr8RY72dIapzMqFQA?sub_confirmation=1")
                                     ]]
                             ),        
             disable_web_page_preview=True,        

@@ -8,9 +8,9 @@
         "Telegram Bot",
         "slbotzonebot"
     ],
-    "website": "https://www.youtube.com/channel/UCvYfJcTr8RY72dIapzMqFQA?sub_confirmation=1",
+    "website": "https://youtube.com/channel/UCz1pGBZCfRAZqwSmb8d-4kA",
     "repository": "https://github.com/youtubeslgeekshow/Telegraphbot",
-    "success_url": "https://www.youtube.com/channel/UCvYfJcTr8RY72dIapzMqFQA?sub_confirmation=1",
+    "success_url": "https://youtube.com/channel/UCz1pGBZCfRAZqwSmb8d-4kA",
     "env": {
         "TG_BOT_TOKEN": {
             "description": "Your Telegram Bot Token from @BotFather",

@@ -1,15 +1,15 @@
 {
     "name": "Telegraph Bot",
     "description": "A bot that can upload photos and video to telegraph.",
-    "logo": "https://telegra.ph/file/59b751e67ce1b3c007e65.jpg",
+    "logo": "https://telegra.ph/file/8dec39ab56b537e430c5f.jpg",
     "keywords": [
         "Telegraph",
         "Uploader",
         "Telegram Bot",
-        "slbotzonebot"
+        "mw tg bots"
     ],
     "website": "https://youtube.com/channel/UCz1pGBZCfRAZqwSmb8d-4kA",
-    "repository": "https://github.com/youtubeslgeekshow/Telegraphbot",
+    "repository": "https://github.com/wisula/Telegraphbot",
     "success_url": "https://youtube.com/channel/UCz1pGBZCfRAZqwSmb8d-4kA",
     "env": {
         "TG_BOT_TOKEN": {
